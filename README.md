@@ -7,4 +7,4 @@
   Привет, я KLongPC
 </div>
 
-<font color="#00ff00">Привет, я KLongPC</font?
+<font color="#00ff00">Привет, я KLongPC</font>

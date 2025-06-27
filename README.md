@@ -7,4 +7,18 @@
   Привет, я KLongPC
 </div>
 
-<font color="#00ff00">Привет, я KLongPC</font>
+<div style="
+  background-color: black;
+  color: lime;
+  font-family: monospace;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  box-sizing: border-box;
+">
+  Привет, я KLongPC
+</div>
+

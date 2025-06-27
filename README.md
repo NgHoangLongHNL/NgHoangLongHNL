@@ -6,3 +6,5 @@
 <div style="border: 2px dashed lime; padding: 20px; background-color: black; color: lime; font-family: monospace; fonsize: 20px; width: 500px; margin: 20px auto; text-align: center; animation: blink 1s step-start infinite;">
   Привет, я KLongPC
 </div>
+
+<font color="#00ff00">Привет, я KLongPC</font?

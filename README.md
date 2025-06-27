@@ -3,7 +3,7 @@
 <br>
 <div align="center">
 
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="klongpc-banner" style="border-radius: 15px;">
+
 <div align="center">
   <h1><pre>Привет, я 𝕂𝕃𝕠𝕟𝕘ℙℂ</pre></h1>
 </div>

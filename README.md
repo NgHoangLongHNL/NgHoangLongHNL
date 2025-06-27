@@ -5,11 +5,11 @@
 <div style="
   border: 2px dashed lime;
   padding: 20px;
-  background-color: black;
+  background-color: white;
   color: lime;
   font-family: monospace;
   font-size: 20px;
-  width: fit-content;
+  width: 100%;
   margin: 20px auto;
   text-align: center;
   animation: blink 1s step-start infinite;

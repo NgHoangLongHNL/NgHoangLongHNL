@@ -3,8 +3,7 @@
 <br>
 
 <div style="
-  border: 2px solid lime;
-  border-radius: 10px;
+  border: 2px dashed lime;
   padding: 20px;
   background-color: black;
   color: lime;
@@ -13,6 +12,7 @@
   width: fit-content;
   margin: 20px auto;
   text-align: center;
+  animation: blink 1s step-start infinite;
 ">
   Привет, я KLongPC
 </div>
